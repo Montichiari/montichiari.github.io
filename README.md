@@ -1,4 +1,3 @@
-# Data projects portfolio
 A summary and collection of my data analysis and data science projects.
 
 ## [Project 1: Employee Turnover Data Analysis and Prediction Model](https://github.com/Montichiari/Employee-Turnover-Data-Analysis-and-Prediction-Model-Project)
