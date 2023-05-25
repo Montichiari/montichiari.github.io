@@ -11,3 +11,8 @@ For this project, a dataset which contained the usage information of 33 Fitbit u
 
 
 ![image](https://github.com/Montichiari/Bellabeat-Data-Analysis-Project/assets/124030799/d5bae588-4553-4314-aff9-763d33c09da3)
+
+## [Tableau Dashboards](https://public.tableau.com/app/profile/montichiari)
+Tableau dashboards on Singapore HDB rent prices, and video game sales.
+
+
