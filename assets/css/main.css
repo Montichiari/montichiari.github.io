@@ -3016,7 +3016,7 @@ input, select, textarea {
 
 		/* Header Panel */
 
-			#titleBar {
+			/* #titleBar {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3106,7 +3106,7 @@ input, select, textarea {
 				transform: translateX(0);
 			}
 
-	}
+	} */
 
 /* Small */
 
@@ -3234,7 +3234,7 @@ input, select, textarea {
 
 		/* Header Panel */
 
-			#titleBar .toggle {
+			/* #titleBar .toggle {
 				height: 4em;
 				width: 6em;
 			}
@@ -3251,7 +3251,7 @@ input, select, textarea {
 				transform: translateX(-17em);
 			}
 
-	}
+	} */
 
 /* XSmall */
 
